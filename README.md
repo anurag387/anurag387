@@ -1,228 +1,141 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6D28D9&height=200&section=header&text=&animation=fadeIn" width="100%" />
-
-<h1 align="center">Hey, I'm Anurag Barmon 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=C+%2F+C%2B%2B+Learner;Java+Developer;Python+Enthusiast;Algorithms+%26+Data+Structures;Always+Learning+Something+New" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍-Dhaka%2C%20Bangladesh-5B21B6?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="mailto:anuragbarmon321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anuragbarmon321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anurag387">
-    <img src="https://img.shields.io/badge/GitHub-anurag387-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anurag387&label=Profile+Views&color=8B5CF6&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/anurag387?label=Followers&style=flat-square&color=7C3AED&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/anurag387?label=Total+Stars&style=flat-square&color=5B21B6&logo=github" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
-
-<h2 align="center">✦ About Me</h2>
-
-<p align="center">
-I'm a Computer Science &amp; Engineering student who loves turning ideas into working software — from mobile apps and web platforms to small AI experiments. I like to keep things practical: pick a problem, build a version of the solution, break it, and rebuild it better.
-</p>
-
-<p align="center">
-Right now I'm growing my full stack skills with modern web tooling, getting hands-on with AI/ML concepts, and exploring the fundamentals of cyber security. My goal is simple — ship real projects, learn out loud, and get a little sharper every single day.
-</p>
-
-<details align="center">
-<summary><b>✦ Open To</b></summary>
-<br>
-
-- Internship opportunities in Software Engineering, App Development, or AI
-- Open source collaboration on beginner to intermediate projects
-- Hackathons, team builds, and learning-focused tech communities
-- Mentorship and peer learning in software and AI
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
-
-<h2 align="center">✦ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark&perline=8" />
-</p>
-<p align="center"><b>Languages — C, C++, Java, Python</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Algorithms-Practicing-7C3AED?style=flat-square&logo=leetcode&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Data%20Structures-Practicing-7C3AED?style=flat-square&logo=codeforces&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Always%20Learning-Something%20New-A78BFA?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=8" />
-</p>
-<p align="center"><b>Tools &amp; Workflow</b></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
-
-<h2 align="center">✦ Areas of Interest</h2>
-
+[README(3).md](https://github.com/user-attachments/files/30994977/README.3.md)
 <div align="center">
 
-| Domain | Status | Details |
-|:---|:---:|:---|
-| App Development | ████████████ Active | Building mobile and desktop applications |
-| Web Development | ██████████ Learning | HTML, React.js — growing rapidly |
-| Artificial Intelligence | █████████ Exploring | ML concepts, clustering, pattern recognition |
-| Cyber Security | ████████ Learning | Fundamentals, ethical hacking concepts |
-| Game Development | ██████ Exploring | Concepts and prototyping |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=160&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Anurag+Barmon;App+%26+Web+Developer;AI+Explorer;Cyber+Security+Learner)](https://git.io/typing-svg)
+
+<p>
+<img src="https://img.shields.io/badge/B.Sc-CSE-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/Daffodil%20International%20University-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/📍-Dhaka,%20Bangladesh-0E7490?style=flat-square" />
+</p>
+
+<p>
+<a href="mailto:barmonanurag125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/anurag387"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://anurag-barmon-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=anurag387&color=0891B2&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/anurag387?label=Followers&style=flat-square&color=0891B2&logo=github&logoColor=white" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=2&section=header"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
+### ◈ About
 
-<h2 align="center">✦ Featured Projects</h2>
+CSE student at Daffodil International University, building real-world software across web, mobile, and AI. Currently sharpening full-stack skills with **React.js** and **Spring Boot**, while exploring cyber security and machine learning. Presently building **OpenGovtBD** — a citizen-government engagement platform for Bangladesh. I like building, breaking, and learning — relentlessly.
 
-<details>
-<summary><b>✦ Government GenZ Web</b></summary>
-<br>
+<br/>
 
-> A civic technology web platform designed to make government services and information accessible and digestible for young citizens of Bangladesh.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | HTML, Web Technologies |
-| **Purpose** | Bridging the gap between government services and the Gen Z demographic |
-| **Impact** | Promotes digital civic engagement and public service awareness |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-government--genz--web-7C3AED?style=flat-square&logo=github)](https://github.com/anurag387) |
-
-Designed with a user-first philosophy — structured information architecture and accessible layouts that bring public sector content closer to youth audiences.
-
-</details>
-
-<details>
-<summary><b>✦ Student Management System</b></summary>
-<br>
-
-> A system for managing student information, attendance, courses, and academic results — built to streamline administrative and academic workflows for educational institutions.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python, Java |
-| **Purpose** | Student record management, attendance tracking, result processing |
-| **Impact** | Simplifies academic data handling for students and administrators |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-student--management--system-7C3AED?style=flat-square&logo=github)](https://github.com/anurag387) |
-
-A hands-on systems project that introduced real database design, CRUD operation architecture, and user role management — foundational experience in backend data modeling.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
-
-<h2 align="center">✦ Achievements</h2>
+### ◈ Tech Stack
 
 <div align="center">
 
-| Recognition | Details |
-|:---|:---|
-| 📜 Government Participation Certificates | Multiple government-issued certificates for academic and civic participation |
-| 🚀 Consistent Learner | Committed to continuous self-improvement across software engineering and AI domains |
-| 🧠 Quiz Fair Certificate on IT | Certificate of recognition for participation in an IT-focused quiz fair |
-| 💻 DIU Take Off on C Certificate | Certificate for completing "Take Off on C" at Daffodil International University |
-| 🧩 DIU Unlock the Algo on Algorithm Certificate | Certificate for completing "Unlock the Algo" (Algorithm) at Daffodil International University |
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br/><sub><b>Spring</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48"/><br/><sub><b>Vite</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=anurag387&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
+### ◈ Featured Project
 
-<h2 align="center">✦ GitHub Analytics</h2>
+<table>
+<tr>
+<td width="100%">
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=anurag387&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github&include_all_commits=true" height="180" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anurag387&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=6B7280" height="180" />
-</p>
+**[🏛️ OpenGovtBD](https://github.com/anurag387/OpenGovtBD)**
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anurag387&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&langs_count=8" />
-</p>
+Government–Citizen engagement platform for Bangladesh — complaint tracking, public discussions, official polls, a suggestion box, and role-based dashboards for Citizens, Officers & Admins.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
+<img src="https://img.shields.io/badge/Java%2017-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Spring%20Boot%203-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Thymeleaf-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Chart.js-0891B2?style=flat-square" />
 
-<h2 align="center">✦ Contribution Activity</h2>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag387&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&radius=8" width="95%" />
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
+### ◈ GitHub Stats
 
-<h2 align="center">✦ Contribution Snake</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anurag387/anurag387/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<img src="https://github-readme-stats-extended.vercel.app/api?username=anurag387&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1C&title_color=22D3EE&icon_color=0891B2&text_color=E2E8F0" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=anurag387&theme=tokyonight&hide_border=true&background=0A0F1C&ring=0891B2&fire=22D3EE&currStreakLabel=22D3EE" height="165"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag387&bg_color=0A0F1C&color=22D3EE&line=0891B2&point=67E8F9&area=true&area_color=155E75&hide_border=true" width="97%"/>
 
-<h2 align="center">✦ Current Focus</h2>
+</div>
 
-```yaml
-current_focus:
-  learning:
-    - React.js — components, hooks, and state management
-    - Cyber Security fundamentals and ethical hacking concepts
-    - Artificial Intelligence — supervised and unsupervised learning
-    - Data Structures & Algorithms
-  building:
-    - Real-world full stack web projects with React.js
-    - AI-powered mini tools and automation scripts
-    - Expanding the Government GenZ Web platform
-  exploring:
-    - Game development concepts and prototyping
-    - Open source contribution workflows
-    - Cloud computing basics (AWS/GCP fundamentals)
-  open_to:
-    - Software engineering internships
-    - Collaborative open source projects
-    - Hackathons and team builds
-    - Peer mentorship and tech communities
-```
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A78BFA&height=3&section=header" width="100%" />
+### ◈ Contribution Snake
 
-<h2 align="center">✦ Connect</h2>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:anuragbarmon321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anurag387">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/anurag387/anurag387/output/github-contribution-grid-snake-dark.svg" width="97%"/>
 
-<p align="center">
-  <i>"Consistency beats talent when talent doesn't work consistently."</i>
-</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6D28D9&height=120&section=footer" width="100%" />
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=2&section=header"/>
+
+*"Consistency beats talent when talent doesn't work consistently."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=100&section=footer"/>
+
+</div>
